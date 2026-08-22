@@ -1,0 +1,11 @@
+{
+  "name": "comment-purge",
+  "description": "Comment and doc block purge, one file at a time. Default verdict is DELETE.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jacob Jørgensen"
+  },
+  "repository": "https://github.com/JacobJoergensen/comment-purge-skill",
+  "keywords": ["comments", "cleanup", "code-review", "docs"],
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "jacobjoergensen",
+  "description": "Claude Code plugins by Jacob Jørgensen.",
+  "owner": {
+    "name": "Jacob Jørgensen",
+    "url": "https://github.com/JacobJoergensen"
+  },
+  "plugins": [
+    {
+      "name": "comment-purge",
+      "source": "./",
+      "description": "Comment and doc block purge, one file at a time. Default verdict is DELETE.",
+      "category": "engineering",
+      "keywords": ["comments", "cleanup", "code-review", "docs"]
+    }
+  ]
+}
